@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: false
+    forks: true
     projects:
       - alpha-word-count
       - COVID-19
