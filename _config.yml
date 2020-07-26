@@ -26,6 +26,8 @@ projects:
     forks: false
     projects:
       - alpha-word-count
+      - COVID-19
+      - Selvaticus.github.io
 
 social_media:
   # behance: your_username
