@@ -23,9 +23,9 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+      - alpha-word-count
 
 social_media:
   # behance: your_username
